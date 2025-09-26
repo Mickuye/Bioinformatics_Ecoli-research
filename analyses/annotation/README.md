@@ -8,5 +8,5 @@ Here are the full annotation reports for the Escherichia coli strains:
 
 - **E-2 (SRR11094155) Full Genome Report**  
   -  📄 [ View PDF Screenshot](https://github.com/Mickuye/Bioinformatics_Ecoli-research/blob/300e7268774de93748c8b241588494910812184f/analyses/annotation/E-2(SRR11094155)FullGenomeReport.pdf)
-  -  💻 [ View Raw HTML Code](annotation/E-2_SRR11094155_FullGenomeReport.html)  
+  -  💻 [ View Raw HTML Code](https://github.com/Mickuye/Bioinformatics_Ecoli-research/blob/0d10184f09741b768f59b2b9d586badd66e8b4b6/analyses/annotation/E-2(SRR11094155)FullGenomeReport.html) 
 
