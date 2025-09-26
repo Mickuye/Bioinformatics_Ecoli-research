@@ -4,7 +4,7 @@ This section contains the phylogenetic analysis of the *Escherichia coli* strain
 
 - **phylogenetic_tree.png**  
   Visual representation of the evolutionary relationships among the strains.  
-  Two additional *E. coli* strains were included to ensure the tree displayed branching structure.
+  Two additional E. coli strains were included to ensure the tree displayed branching structure.
   
 - **phylogenetic_tree.tre**  
   Newick formatted tree file that can be loaded into phylogenetic visualization tools (e.g., iTOL, FigTree, MEGA) for reproducibility and further analysis.  
