@@ -1,0 +1,39 @@
+ANTIBIOTICS CLASS,MODI-EC4326,SCHI0016.S.230
+Aminocoumarin antibiotics,3,3
+Aminoglycosides,3,3
+Multi-class P,1,1
+Beta-lactam antibiotics,1,1
+Bicyclomycins,1,1
+Multi-class A,4,4
+Cycloserine,4,4
+Diaminopyrimidines,1,1
+Elfamycins,3,5
+Fluoroquinolones Quinolones Quinolines,4,4
+Multi-class B,1,1
+Multi-class C,3,2
+Multi-class D,2,2
+Fosfomycin,1,1
+Fosmidomycin,1,1
+Fusidic acid,1,1
+Isoniazid,3,2
+Multi-class E,1,1
+"Isoniazid, Triclosan",3,1
+Macrolides,2,4
+Multi-class F,1,1
+Multiple antibiotic resistance,2,2
+Multi-class G,2,1
+Mupirocin,1,1
+Multi-class H,1,1
+Multi-class I,1,
+Multi-class J,1,1
+Multi-class K,1,1
+Multi-class L,1,1
+Multi-class M,,1
+Multi-class N,1,1
+Multi-class O,1,1
+Peptide antibiotics,3,3
+Quaternary ammonium compounds,1,1
+"Rifamycins, Peptide antibiotics",1,1
+Sulfonamides,1,1
+Tetracyclines,2,2
+"Tetracyclines, Glycylcyclines",1,1
