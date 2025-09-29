@@ -49,7 +49,7 @@ A phylogenetic tree was constructed to examine the evolutionary relationship of 
 
 Subsystem profiling highlighted differences in metabolic pathways, resistance features, and mobile genetic elements.
 -	Data tables: [Subsystems (CSV/XLSX)](https://github.com/Mickuye/Bioinformatics_Ecoli-research/tree/7b312f25f3314012db78c932bcbe60fd4d7166b6/analyses/subsystems)
--	Visualization: Heatmap
+-	Visualization: [Heatmap](https://github.com/Mickuye/Bioinformatics_Ecoli-research/tree/7c8a0aee0393c831b27fd6d007cf70ce77b9f478/results)
   
 # Findings (Heatmap):
 
