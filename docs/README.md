@@ -22,7 +22,7 @@ The resistome profiles of the E. coli genomes (strains MOD1–EC4326 and SCHI001
 **_Chromosomal Sequence Properties_**
 The chromosomal properties of the two E. coli genomes are summarized in **Table 1.** E-1 had the largest genome length and highest coding sequence (CDS) count, while E-2 exhibited a higher N50 and slightly higher GC content.
 
-**Outputs:** Quality Control Reports
+**Outputs:** [Quality Control Reports](https://github.com/Mickuye/Bioinformatics_Ecoli-research/tree/8a9139049380c800c8d317f20ef2bbb007ea013f/analyses/QC)
 
 **_Table 1. Chromosomal Genome Properties_**
 
