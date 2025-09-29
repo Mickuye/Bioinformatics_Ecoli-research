@@ -7,7 +7,8 @@ This study presents a comparative genomic analysis of multiple Escherichia coli 
 **GENOME ANNOTATION**
 
 To identify genes linked to chromosomal properties, antimicrobial resistance, and mobile genetic elements, we annotated assembled contigs using the PATRIC (v3.46.3) pipeline, targeting bacterial genomes. Each contig was assigned a unique genome identifier, enabling accurate classification and downstream comparisons.
-Outputs: Annotation Reports
+
+**Outputs:** [Annotation Reports](https://github.com/Mickuye/Bioinformatics_Ecoli-research/tree/8dd400a6fd8a42b2e5c29d7996ea7734b56bb1e2/analyses/annotation)
 
 **COMPARATIVE ANTIMICROBIAL RESISTANCE ANALYSIS** 
 
