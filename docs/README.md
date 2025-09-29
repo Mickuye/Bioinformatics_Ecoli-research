@@ -38,7 +38,7 @@ Assemblies were produced using Unicycler v0.4.8, refined with Samtools v1.13, an
 # Phylogenetic Analysis
 A phylogenetic tree was constructed to examine the evolutionary relationship of the studied strains with additional E. coli references.
 -	Tree format: [Newick file](https://github.com/Mickuye/Bioinformatics_Ecoli-research/blob/1ae6477f85d2e3a0aa41feee5c67b7b484361b7b/analyses/phylogenetics/MIXED%20TREE.tre)
--	Visualization: Phylogenetic Tree (PDF/PNG)
+-	Visualization: [Phylogenetic Tree (PDF/PNG)](https://github.com/Mickuye/Bioinformatics_Ecoli-research/tree/5f17d3d538f34edeb54b16063904060306d8abc4/analyses/phylogenetics)
 
 **Findings:**
 -	E-1 clustered with known multidrug-resistant clades, consistent with its resistome profile.
