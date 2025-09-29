@@ -30,13 +30,14 @@ The chromosomal properties of the two E. coli genomes are summarized in **Table 
 
 
 # Quality Control & Assembly
--	E-1 (SRR3951549): 243 contigs, N50 = 146,357, GC = 50.28%
--	E-2 (SRR11094155): 45 contigs, N50 = 359,891, GC = 50.70%
+
+-	**E-1 (SRR3951549):** 243 contigs, N50 = 146,357, GC = 50.28%
+-	**E-2 (SRR11094155):** 45 contigs, N50 = 359,891, GC = 50.70%
 Assemblies were produced using Unicycler v0.4.8, refined with Samtools v1.13, and validated with QUAST v5.2.0.
 
 # Phylogenetic Analysis
 A phylogenetic tree was constructed to examine the evolutionary relationship of the studied strains with additional E. coli references.
--	Tree format: Newick file
+-	Tree format: [Newick file](https://github.com/Mickuye/Bioinformatics_Ecoli-research/blob/1ae6477f85d2e3a0aa41feee5c67b7b484361b7b/analyses/phylogenetics/MIXED%20TREE.tre)
 -	Visualization: Phylogenetic Tree (PDF/PNG)
 
 **Findings:**
