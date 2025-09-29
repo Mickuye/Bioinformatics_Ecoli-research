@@ -14,12 +14,13 @@ To identify genes linked to chromosomal properties, antimicrobial resistance, an
 
 The resistome profiles of the E. coli genomes (strains MOD1–EC4326 and SCHI0016.S.230) were analyzed using BLASTP, k-mer–based detection, and the BV-BRC BLAST pipeline. Antibiotic Resistance Genes (ARGs) were systematically classified into mechanistic categories, clarifying each strain’s resistance potential.
 
-**Outputs:** Resistance Profiles
+**Outputs:** [Resistance Profiles](https://github.com/Mickuye/Bioinformatics_Ecoli-research/tree/f4cc468a8c0e4659bffa0e19ac87a75225aa1974/analyses/resistance)
 
-**Results**
+
+**RESULTS**
 
 **_Chromosomal Sequence Properties_**
-The chromosomal properties of the two E. coli genomes are summarized in Table 1. E-1 had the largest genome length and highest coding sequence (CDS) count, while E-2 exhibited a higher N50 and slightly higher GC content.
+The chromosomal properties of the two E. coli genomes are summarized in **Table 1.** E-1 had the largest genome length and highest coding sequence (CDS) count, while E-2 exhibited a higher N50 and slightly higher GC content.
 
 **Outputs:** Quality Control Reports
 
